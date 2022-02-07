@@ -1,4 +1,4 @@
-expense tracker
+# expense tracker
 
 
  Expenso is a voice powered budget tracking app created using React, Material UI and Speechify that allows you to add income and expenses across a variety of categories.
